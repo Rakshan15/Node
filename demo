@@ -1,0 +1,5 @@
+echo"This is my first Progrem"
+  a ="Ranjith Here!"
+  for (i=0;i<=10;i++)
+       echo "Printing the value "
+  
